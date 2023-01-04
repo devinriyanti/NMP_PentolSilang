@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PentolSilang_160419083</string>
+    <string name="play">play!</string>
+    <string name="pentol_silang">Pentol Silang</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
